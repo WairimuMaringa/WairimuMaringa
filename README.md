@@ -18,6 +18,8 @@ I'm Wairimu. I was a virologist and hold a Master's degree in Medical Virology. 
 - 💬 Ask me about **Cybersecurity and Azure**
 
 - ⚡ Fun fact **I like my coffee plain and black lol**
+
+
 <a href="https://www.buymeacoffee.com/wairimumaringa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <h3 align="left">Connect with me:</h3>
