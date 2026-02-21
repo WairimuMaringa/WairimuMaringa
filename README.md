@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wairimu Maringa</h1>
-<h3 align="center">A cybersecurity analyst</h3>
+<h3 align="center">Cybersecurity with a focus on cloud security and AI security</h3>
 
 # 💫 About Me
 I'm Wairimu. I was a virologist and hold a Master's degree in Medical Virology. I am also a published scientific author. I took a career break and transitioned to cybersecurity, and my interest lies within DFIR, and threat hunting. I also have a keen interest in cloud and AI.
