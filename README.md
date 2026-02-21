@@ -13,9 +13,9 @@ I'm Wairimu. I was a virologist and hold a Master's degree in Medical Virology. 
 
 - 🔭 I’m currently working on **more certifications and my homelab**
 
-- 🌱 Certifications attained **CCD, CDSA, Security+, AZ-900, SC-900, AI-900, AWS-CCP**
+- 🌱 Certifications attained **CCD, CDSA, Security+, AZ-900, SC-900, AI-900, AWS-CCP, SecAI+, CySA+**
 
-- 💬 Ask me about **Cybersecurity and Azure**
+- 💬 Ask me about **Cybersecurity and Cloud**
 
 - ⚡ Fun fact **I like my coffee plain and black lol**
 
