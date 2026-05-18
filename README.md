@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity with a focus on cloud security and AI security</h3>
 
 # 💫 About Me
-I'm Wairimu. I was a virologist and hold a Master's degree in Medical Virology. I am also a published scientific author. I took a career break and transitioned to cybersecurity, and my interest lies within DFIR, and threat hunting. I also have a keen interest in cloud and AI.
+I'm Wairimu. I was a virologist and hold a Master's degree in Medical Virology. I am also a published scientific author. I took a career break and transitioned to cybersecurity, and my interest lies within DFIR, cloud security, and AI security.
 <br>👯 I’m looking to collaborate on: everything cybersecurity related<br>💬 Ask me about: cloud security, digital forensics, incident response, threat hunting, networking<br>⚡ Fun fact: I like my coffee plain and black lol
 
 
